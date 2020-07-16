@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fetching-t3d/static/css/main.27774cc6.chunk.css",
+    "main.js": "/fetching-t3d/static/js/main.2d41c614.chunk.js",
+    "main.js.map": "/fetching-t3d/static/js/main.2d41c614.chunk.js.map",
+    "runtime-main.js": "/fetching-t3d/static/js/runtime-main.d09984e6.js",
+    "runtime-main.js.map": "/fetching-t3d/static/js/runtime-main.d09984e6.js.map",
+    "static/js/2.2ea75029.chunk.js": "/fetching-t3d/static/js/2.2ea75029.chunk.js",
+    "static/js/2.2ea75029.chunk.js.map": "/fetching-t3d/static/js/2.2ea75029.chunk.js.map",
+    "index.html": "/fetching-t3d/index.html",
+    "precache-manifest.b538df57df13238cd2ff2853b69bfef6.js": "/fetching-t3d/precache-manifest.b538df57df13238cd2ff2853b69bfef6.js",
+    "service-worker.js": "/fetching-t3d/service-worker.js",
+    "static/css/main.27774cc6.chunk.css.map": "/fetching-t3d/static/css/main.27774cc6.chunk.css.map",
+    "static/js/2.2ea75029.chunk.js.LICENSE.txt": "/fetching-t3d/static/js/2.2ea75029.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d09984e6.js",
+    "static/js/2.2ea75029.chunk.js",
+    "static/css/main.27774cc6.chunk.css",
+    "static/js/main.2d41c614.chunk.js"
+  ]
+}
